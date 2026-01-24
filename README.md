@@ -1,5 +1,12 @@
 # Hi there 👋 — ryosuke takata
 
+<p align="left"> 
+  <a href="https://github.com/tkr53/tkr53/"><img src="https://komarev.com/ghpvc/?username=tkr53" alt="tkr53" /></a>
+  <a href="https://zenn.dev/mamuno"><img height="20" src="https://badgen.org/img/zenn/mamuno/likes?style=plastic" alt="Likes" /></a>
+  <a href="https://zenn.dev/mamuno"><img height="20" src="https://badgen.org/img/zenn/mamuno/followers?style=plastic" alt="Followers" /></a>
+  <a href="https://zenn.dev/mamuno"><img height="20" src="https://badgen.org/img/zenn/mamuno/articles?style=plastic" alt="Articles" /></a>
+</p>
+
 ### 🛠️ Tech Stack
 
 <table>
