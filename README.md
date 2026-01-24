@@ -9,4 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkr53&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tkr53&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://raw.githubusercontent.com/tkr53/tkr53/main/profile-summary-card-output/darcula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tkr53/tkr53/main/profile-summary-card-output/darcula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tkr53/tkr53/main/profile-summary-card-output/darcula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tkr53/tkr53/main/profile-summary-card-output/darcula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tkr53/tkr53/main/profile-summary-card-output/darcula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
