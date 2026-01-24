@@ -2,7 +2,7 @@
 
 ### 🛠️ Languages
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,py,html,css,react,php,postgres,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,py,php,html,css,react,postgres,aws,docker)](https://skillicons.dev)
 
 ---
 
