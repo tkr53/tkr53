@@ -1,8 +1,29 @@
 # Hi there 👋 — ryosuke takata
 
-### 🛠️ Languages
+### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,py,php,html,css,react,postgres,aws,docker)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center"><strong>📝 Programming languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=go,ts,js,py,php,html,css" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚙️ Libraries & Frameworks</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,remix,nextjs,vite,tailwind,fastapi" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗄️ Databases</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,dynamodb,supabase" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>☁️ Cloud & Infrastructure</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,cloudflare,terraform" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔧 Development tools & Environment</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,github,docker,nodejs,bun,linux,apple" /></td>
+  </tr>
+</table>
 
 ---
 
