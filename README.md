@@ -1,4 +1,4 @@
-# Hi there 👋 — tkr53
+# Hi there 👋 — ryosuke takata
 
 ### 🛠️ Languages
 
