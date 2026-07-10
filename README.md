@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td align="center"><strong>🗄️ Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,dynamodb,supabase" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,dynamodb,supabase" /></td>
   </tr>
   <tr>
     <td align="center"><strong>☁️ Cloud & Infrastructure</strong></td>
