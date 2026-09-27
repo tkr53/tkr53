@@ -37,10 +37,10 @@
 ### 📊 GitHub Stats
 
 <a href="https://github.com/tkr53">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=tkr53&show_icons=true&theme=dracula&include_all_commits=true" alt="tkr53's GitHub stats" />
+  <img align="center" height="160" src="./profile/stats.svg" alt="tkr53's GitHub stats" />
 </a>
 <a href="https://github.com/tkr53">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkr53&layout=compact&langs_count=8&theme=dracula" alt="Top languages" />
+  <img align="center" height="160" src="./profile/top-langs.svg" alt="Top languages" />
 </a>
 
 ---
